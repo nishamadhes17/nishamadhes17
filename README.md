@@ -1,7 +1,7 @@
 Hi there 👋
 I'm Nisha !
-- 👩‍🎓 I'm a second year ECE student at Karpagam college of Engineering
-- 🌱 I’m currently learning Frond-End Web Development in Spotknack
-- 💬 Ask me about C-Programming Basics,SQL Basics,Java Basics,HTML,CSS,JavaScript
+- 👩‍🎓 I'm currently pursuing my ECE bachelor degree in Karpagam college of Engineering
+- 🌱 I have joined as a Frond-End Web Development mentee in Spotknack
+- 💬 Ask me about Java Basics,C-Programming Basics,SQL Basics,HTML Basics
 - 📫 How to reach me: LinkedIn,Gmail
 
